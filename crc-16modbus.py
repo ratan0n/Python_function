@@ -17,3 +17,4 @@ def crc16(data):
         return crc
 
 print(crc16('Cyclic redundat check 16 modbus alogirthm in python'))
+#@m1n.app
